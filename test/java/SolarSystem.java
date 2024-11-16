@@ -8,5 +8,11 @@ public class SolarSystem {
         BB.Sun="1";
 
         System.out.println("solar system is ready");
+
+    Planet2 Dros=new Planet2();
+    Dros.color="black";
+    Dros.radius="1238238";
+    
+
     }
 }
