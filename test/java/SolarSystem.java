@@ -8,5 +8,12 @@ public class SolarSystem {
         BB.Sun="1";
 
         System.out.println("solar system is ready");
+
+   Planet1 ZORO= new Planet1();
+ZORO.color="pink";
+ZORO.radius="132838r";
+
+
+
     }
 }
